@@ -11,7 +11,7 @@ DecentRandom은 ICO를 진행하지 않습니다. 발행되는 RAND는 총 1,000
 | 구분 | RAND 지급량 | 미션 |
 |:---:|:---:|:---|
 | **백서 제작** | 30,000,000 RAND | DecentRandom 백서 작성자에게 지급합니다. |
-| **알파 버전 코어** | 40,000,000 RAND | github.com/decentrandom/decentrandom 알파 버전 테스트넷을 제작한 이에게 30,000,000 RAND를 지급합니다. |
+| **알파 버전 코어 제작** | 40,000,000 RAND | github.com/decentrandom/decentrandom 알파 버전 테스트넷을 제작한 이에게 30,000,000 RAND를 지급합니다. |
 | **주소 생성기 제작** | 2,000,000 RAND | 바운티 지급을 위한 RAND 주소 생성기를 제작하는 이에게 2,000,000 RAND를 지급합니다. 최소, 맥용과 윈두우용 두 버전은 필수 입니다. |
 | **공식 웹사이트 제작** | 5,000,000 RAND | <https://decentrandom.com> 공식 웹사이트를 제작, 운영하는 이에게 5,000,000 RAND를 지급합니다. |
 | **채널 운영** | 2,000,000 RAND / 月 | 웹사이트, github, 트위터, 미디엄, 텔레그램 채널을 운영하는 이에게 월 2,000,000 RAND를 지급합니다. |
@@ -21,12 +21,14 @@ DecentRandom은 ICO를 진행하지 않습니다. 발행되는 RAND는 총 1,000
 | **알파버전 블록 탐색기 개발** | 3,000,000 RAND | 알파버전 블록 탐색기 개발자에게 3,000,000 RAND를 지급합니다. |
 | **알파버전 블록 탐색기 운영** | 200,000 RAND / 月 | 알파버전 블록 탐색기 운영자에게 매월 200,000 RAND를 지급합니다. |
 
-## 초기 기여 보상자
+## 보상자 및 지급 주소
+
+- 아래 보상 내역은 메인넷 제네시스 파일에 포함됩니다.
 
 | 구분 | RAND 지급량 | 지급 주소 |
 |:---:|:---:|:---|
 | **백서 제작** | 30,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파 버전 코어** | 40,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
+| **알파 버전 코어 제작** | 40,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
 | **주소 생성기 제작** | 2,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
 | **공식 웹사이트 제작** | 5,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
 | **채널 운영** | 10,000,000 RAND (총 5개월, 2,000,000 * 5) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
