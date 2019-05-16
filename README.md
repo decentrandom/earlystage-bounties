@@ -36,4 +36,4 @@ DecentRandom은 ICO를 진행하지 않습니다. 발행되는 RAND는 총 1,000
 | **알파버전 풀노드 운영** | 400,000 RAND (총 2개월, 200,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
 | **알파버전 검증인 노드 운영** | 4,000,000 RAND (총 2개월, 2,000,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
 | **알파버전 블록 탐색기 개발** | 3,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파버전 블록 탐색기 운영** | 600,000 RAND (총 3개월, 300,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
+| **알파버전 블록 탐색기 운영** | 600,000 RAND (총 3개월, 200,000 * 3) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
