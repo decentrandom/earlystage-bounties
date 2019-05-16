@@ -25,15 +25,15 @@ DecentRandom은 ICO를 진행하지 않습니다. 발행되는 RAND는 총 1,000
 
 - 아래 보상 내역은 메인넷 제네시스 파일에 포함됩니다.
 
-| 구분 | RAND 지급량 | 지급 주소 |
-|:---:|:---:|:---|
-| **백서 제작** | 30,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파 버전 코어 제작** | 40,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **주소 생성기 제작** | 2,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **공식 웹사이트 제작** | 5,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **채널 운영** | 10,000,000 RAND (총 5개월, 2,000,000 * 5) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **뉴스레터 발행 및 관리** | 5,000,000 RAND (총 5개월, 1,000,000 * 5) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파버전 풀노드 운영** | 400,000 RAND (총 2개월, 200,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파버전 검증인 노드 운영** | 4,000,000 RAND (총 2개월, 2,000,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파버전 블록 탐색기 개발** | 3,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
-| **알파버전 블록 탐색기 운영** | 600,000 RAND (총 3개월, 200,000 * 3) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn |
+| 구분 | RAND 지급량 | 지급 주소 | Email |
+|:---:|:---:|:---|:---|
+| **백서 제작** | 30,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **알파 버전 코어 제작** | 40,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **주소 생성기 제작** | 2,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **공식 웹사이트 제작** | 5,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **채널 운영** | 10,000,000 RAND (총 5개월, 2,000,000 * 5) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **뉴스레터 발행 및 관리** | 5,000,000 RAND (총 5개월, 1,000,000 * 5) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **알파버전 풀노드 운영** | 400,000 RAND (총 2개월, 200,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **알파버전 검증인 노드 운영** | 4,000,000 RAND (총 2개월, 2,000,000 * 2) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **알파버전 블록 탐색기 개발** | 3,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **알파버전 블록 탐색기 운영** | 600,000 RAND (총 3개월, 200,000 * 3) | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
