@@ -27,7 +27,7 @@ DecentRandom은 ICO를 진행하지 않습니다. 발행되는 RAND는 총 1,000
 
 | 구분 | RAND 지급량 | 지급 주소 | Email |
 |:---:|:---:|:---|:---|
-| **백서 제작** | 30,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
+| **백서 제작** | 30,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis\*\*\*\*\*@\*\*\*\*\*.\*\*\* |
 | **알파 버전 코어 제작** | 40,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
 | **주소 생성기 제작** | 2,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
 | **공식 웹사이트 제작** | 5,000,000 RAND | rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn | mis*****@*****.*** |
