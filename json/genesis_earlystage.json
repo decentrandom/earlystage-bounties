@@ -1,0 +1,23 @@
+{
+    "app_state": {
+      "accounts": [
+        {
+          "address": "rand1vug6e3dvr7mqa67agsv0gkg8wcp5sw0nwzv8cn",
+          "coins": [
+            {
+              "denom": "urand",
+              "amount": "100000000000000"
+            }
+          ],
+          "sequence_number": "0",
+          "account_number": "0",
+          "original_vesting": null,
+          "delegated_free": null,
+          "delegated_vesting": null,
+          "start_time": "0",
+          "end_time": "0",
+          "vesting_schedules": null
+        }
+      ]
+    }
+}
