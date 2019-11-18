@@ -20,7 +20,7 @@
 # 보상자 및 지급 주소
 
 - 아래 보상 내역은 확정되었습니다.
-- 보상 내역은 메인넷 genesis.json에 포함됩니다.
+- 보상 내역은 메인넷 genesis.json에 포함되었습니다.
 - 포함되는 형식은 [/json/genesis_earlystage.json](https://github.com/decentrandom/earlystage-bounties/blob/master/json/genesis_earlystage.json)에서 확인하실 수 있습니다.
 
 | 구분 | RAND 지급량 | 지급 주소 | Email |
